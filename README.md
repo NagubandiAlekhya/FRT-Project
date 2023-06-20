@@ -1,6 +1,6 @@
 # FRT-Project
 
-✨ Dentile ✨
+# ✨ Dentile ✨
 
 This is a web based application developed for health related based website in India.
 
@@ -12,14 +12,14 @@ Project Link - https://purple-desert-0d14afe00.3.azurestaticapps.net/
 Project demo video link -
 
 
-Azure technologies used for Project
+## Azure technologies used for Project
 
 Static web apps
 
 Health bot
 
 
-Features and Functionalities
+## Features and Functionalities
 
 Interactive and responsive UI.
 
@@ -34,9 +34,9 @@ User can know about Dental Care information through this website.
 Included the feedback Survey form to increase the scope of improvement.
 
 
-Screenshots
+# Screenshots
 
-Home -
+## Home -
 
 ![Screenshot (1187)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/9665ae4e-4a1d-47e8-af7d-6e7895b2ad29)
 
@@ -45,7 +45,7 @@ Home -
 
 
 
-About -
+## About -
 
 ![Screenshot (1188)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/51e568d4-4f50-4bf1-83b0-8ea0200a73a1)
 
@@ -54,19 +54,19 @@ About -
 
 
 
-Services -
+## Services -
 
 ![Screenshot (1190)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/15a9ce84-7425-434f-bf95-c3d2ad1c3af9)
 
 
 
-Contact -
+## Contact -
 
 ![Screenshot (1192)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/3f92345e-105b-4cbb-bc76-11221ee08240)
 
 
 
-Health Bot -
+## Health Bot -
 
 ![Screenshot (1193)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/5dc9d459-24ce-4cad-8414-c5e250220ac6)
 
@@ -75,7 +75,7 @@ Health Bot -
 
 
  
-Tech Stack 💻
+# Tech Stack 💻
 
 Azure(Hosting)
 
