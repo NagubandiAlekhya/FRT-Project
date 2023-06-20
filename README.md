@@ -33,43 +33,41 @@ Screenshots
 
 Home -
 
-![Screenshot (1184)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/a8112044-2f76-4574-b879-fb54a62eebcc)
+![Screenshot (1187)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/9665ae4e-4a1d-47e8-af7d-6e7895b2ad29)
 
+![Screenshot (1186)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/6f1c54bb-a04e-4fa6-bda0-693c252e0309)
 
-![Screenshot (1168)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/663440f1-46f5-49bc-9b11-0405cf005ab8)
-
-![Screenshot (1183)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/0abeb9ae-68a0-466a-8855-a6c0db63c0fe)
-
+![Screenshot (1187)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/bc472be9-064e-475d-9724-c923fdfab01a)
 
 
 About -
 
-![Screenshot (1169)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/0410e132-a5e5-4798-9e16-e6a79a81150a)
+![Screenshot (1188)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/51e568d4-4f50-4bf1-83b0-8ea0200a73a1)
+
+![Screenshot (1189)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/16a8a8bb-396f-4cdf-997b-cb19902c1dc7)
 
 
 Services -
 
-![Screenshot (1174)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/4540f7de-21e6-439d-abbd-58a5771032fc)
+![Screenshot (1190)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/15a9ce84-7425-434f-bf95-c3d2ad1c3af9)
 
-![Screenshot (1173)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/835ce5f1-fd2d-4470-9ccd-64c1a48c1f93)
+![Screenshot (1191)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/6554e068-0b17-4bb3-a643-a603b36131cd)
 
 
-Contact us -
+Contact -
 
-![Screenshot (1175)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/c594749f-e0d3-41e7-809b-011565469be1)
+![Screenshot (1192)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/3f92345e-105b-4cbb-bc76-11221ee08240)
 
-![Screenshot (1177)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/6b2dc419-f3ed-4db1-bf5d-13b1be654728)
 
-Health Bot
+Health Bot -
 
-![Screenshot (1179)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/7f321170-7481-4588-87cf-36575f9f1362)
+![Screenshot (1193)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/5dc9d459-24ce-4cad-8414-c5e250220ac6)
 
-![Screenshot (1180)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/46978c73-fefe-4383-a535-cbb46ebb3fea)
+![Screenshot (1194)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/8d630cf7-8709-4028-9475-b4e3d7b8c950)
 
-![Screenshot (1181)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/d6a7229c-a77d-4862-bbce-20e3d9af3fa7)
+![Screenshot (1195)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/ed41a9eb-0fa5-4cef-b43d-5f2dfd5b4eb9)
 
-![Screenshot (1182)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/9548543e-5786-4a60-b794-f7ad0e8002d4)
-
+![Screenshot (1196)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/84ef76cc-78a8-4901-902b-1ebc61e77029)
 
 Tech Stack 💻
 
