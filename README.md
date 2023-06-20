@@ -1,5 +1,5 @@
 # FRT-Project
-✨ Glory Luxe ✨
+✨ Dentile ✨
 
 This is a web based application developed for health related based website in India.
 
@@ -31,10 +31,18 @@ Included the feedback Survey form to increase the scope of improvement.
 
 Screenshots
 
+Home -
+
+![Screenshot (1184)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/a8112044-2f76-4574-b879-fb54a62eebcc)
+
+
 ![Screenshot (1168)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/663440f1-46f5-49bc-9b11-0405cf005ab8)
 
+![Screenshot (1183)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/0abeb9ae-68a0-466a-8855-a6c0db63c0fe)
 
-About Us -
+
+
+About -
 
 ![Screenshot (1169)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/0410e132-a5e5-4798-9e16-e6a79a81150a)
 
