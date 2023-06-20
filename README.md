@@ -44,9 +44,6 @@ Home -
 ![Screenshot (1186)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/6f1c54bb-a04e-4fa6-bda0-693c252e0309)
 
 
-![Screenshot (1187)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/bc472be9-064e-475d-9724-c923fdfab01a)
-
-
 
 About -
 
@@ -62,9 +59,6 @@ Services -
 ![Screenshot (1190)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/15a9ce84-7425-434f-bf95-c3d2ad1c3af9)
 
 
-![Screenshot (1191)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/6554e068-0b17-4bb3-a643-a603b36131cd)
-
-
 
 Contact -
 
@@ -78,13 +72,6 @@ Health Bot -
 
 
 ![Screenshot (1194)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/8d630cf7-8709-4028-9475-b4e3d7b8c950)
-
-
-![Screenshot (1195)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/ed41a9eb-0fa5-4cef-b43d-5f2dfd5b4eb9)
-
-
-![Screenshot (1196)](https://github.com/NagubandiAlekhya/FRT-Project/assets/107664623/84ef76cc-78a8-4901-902b-1ebc61e77029)
-
 
 
  
