@@ -9,7 +9,7 @@ This web based health application has been developed for the accomplishment of F
 
 Project Link - https://purple-desert-0d14afe00.3.azurestaticapps.net/
 
-Project demo video link -
+Project demo video link - https://drive.google.com/file/d/1VoJfmxgZmn_36tEADy_qyfFUzF5cr1w-/view
 
 
 ## Azure technologies used for Project
